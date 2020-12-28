@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--VituixCAD ENCLOSURE FILE-->
+<ENCLOSURE>
+  <DrvManufacturer>SB</DrvManufacturer>
+  <DrvModel>MW16P-4</DrvModel>
+  <chkOnlineDatabase>False</chkOnlineDatabase>
+  <cmbDriverCount>1 pair</cmbDriverCount>
+  <chkIsobaric>True</chkIsobaric>
+  <chkIsobaricSeries>False</chkIsobaricSeries>
+  <txtMme>0</txtMme>
+  <txtEg>2.83</txtEg>
+  <txtPg>2.35556</txtPg>
+  <txtRg>0</txtRg>
+  <optEg>True</optEg>
+  <optPg>False</optPg>
+  <optDriverSeries>True</optDriverSeries>
+  <optDriverParallel>False</optDriverParallel>
+  <optDriverConn22>False</optDriverConn22>
+  <optDriverConn33>False</optDriverConn33>
+  <txtDrvName>SB MW16P-4</txtDrvName>
+  <cmbEnclosureType>Bass reflex</cmbEnclosureType>
+  <chkAutoAlign>True</chkAutoAlign>
+  <cmbDrivers />
+  <chkCrossover>False</chkCrossover>
+  <chkDiffraction>False</chkDiffraction>
+  <txtDiffractionFile />
+  <txtBoxRVb>33</txtBoxRVb>
+  <txtBoxRQa>100</txtBoxRQa>
+  <txtBoxRQl>7</txtBoxRQl>
+  <txtBoxRFb>30.7265225376608</txtBoxRFb>
+  <chkBoxRFb>False</chkBoxRFb>
+  <txtVentRLen>45</txtVentRLen>
+  <txtVentRDia>8.3</txtVentRDia>
+  <txtVentRArea>54.1060794764502</txtVentRArea>
+  <chkVentRArea>False</chkVentRArea>
+  <txtVentRQp>100</txtVentRQp>
+  <txtVentRNbr>1</txtVentRNbr>
+  <txtEndCorR>0.85</txtEndCorR>
+  <chkShowElectrical>False</chkShowElectrical>
+  <cmsShowInductance>False</cmsShowInductance>
+</ENCLOSURE>
